@@ -1,0 +1,16 @@
+{
+  "name": "lbert-palindrome",
+  "version": "0.1.0",
+  "description": "Palindrome detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "palindrome",
+    "learn-enough",
+    "javascript"
+  ],
+  "author": "Luke Bertram",
+  "license": "ISC"
+}
